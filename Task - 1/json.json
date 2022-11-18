@@ -1,0 +1,26 @@
+[
+    {
+    "name": "Nicat",
+    "surname": "Huseynli",
+    "age": 18,
+    "salary": 2500    
+    },
+    {
+        "name": "Ruslan",
+        "surname": "Ibrahimov",
+        "age": 23,
+        "salary": 2400    
+    },
+    {
+        "name": "Valeh",
+        "surname": "Agayev",
+        "age": 36,
+        "salary": 2300    
+    },
+    {
+        "name": "Cavid",
+        "surname": "Alakbarov",
+        "age": 25,
+        "salary": 2200    
+    }
+]

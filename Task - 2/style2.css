@@ -1,0 +1,37 @@
+.dropbtn{
+    width: 305px;
+    height: 100px;
+    border: 2px solid grey;
+    font-size: 30px;
+    text-align: center;
+    cursor: pointer;
+}
+.fa-solid{
+    margin-left: 5px;
+    font-size: 20px;
+}
+.dropbtn:hover{
+    background-color:pink;
+}
+.dropdown{
+    width: 300px;
+    height: 50px;
+    padding-top: 25px;
+    border: solid gray;
+    border-radius: 0.1px;
+    background-color: white;
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: black;
+}
+.dropdown-main{
+    display: none;
+}
+.details{
+    display: block;
+}
+.dropdown-main .dropdown{
+    display: block;
+}
